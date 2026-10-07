@@ -67,10 +67,6 @@ streamlit run app.py
 ```
 Open your browser at `http://localhost:8501`.
 
-### 3. Run the Unit Tests
-```bash
-python -m unittest tests/test_engine.py
-```
 
 ---
 
